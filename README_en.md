@@ -16,12 +16,13 @@ Analyze ticket sales, identify key metrics, and build a dashboard to support bus
 - Business reporting and insights
 
 **Repository Structure:**
+```
 ticket_sales_analysis/
 ├── README.md # Russian version
 ├── README_en.md # English version
 ├── ticket_sales_analysis.ipynb # analysis notebook with charts
 └── dashboard_link.txt # Yandex DataLens dashboard link
-
+```
 
 **Data Note:**  
 - Original course datasets are not included  
