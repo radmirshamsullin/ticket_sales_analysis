@@ -18,10 +18,10 @@
 **Структура репозитория:**
 ```
 ticket_sales_analysis/
-├── README.md # текущий файл
-├── README_en.md # англоязычная версия
+├── README.md                   # текущий файл
+├── README_en.md                # англоязычная версия
 ├── ticket_sales_analysis.ipynb # ноутбук с анализом и графиками
-└── dashboard_link.txt # ссылка на дашборд в Yandex DataLens
+└── dashboard_link.txt          # ссылка на дашборд в Yandex DataLens
 ```
 
 **Примечание по данным:**  
